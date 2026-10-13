@@ -16,7 +16,7 @@ welfare datasets.
 Skills: Python, LLMs, RAG, DeepEval, statistical analysis,
 API cost analysis
 
-→ [View LLM & RAG Benchmarking →](./01-LLM-RAG-Benchmarking/)
+→ [View LLM & RAG Benchmarking →](https://github.com/hhwangq/01-LLM-RAG-Benchmarking)
 
 ### 🧬 GABAA Potency Prediction
 Developed machine-learning models for predicting receptor potency
