@@ -31,7 +31,7 @@ Compared deep-learning approaches for plant image classification.
 
 Skills: Deep Learning, ResNet50, Transfer Learning
 
-→ View Project
+→ [View LLM & RAG Benchmarking →](https://github.com/hhwangq/03-Plant-Morphology-Classification)
 
 ### 📊 Missing Data Imputation
 Compared statistical and ML-based imputation approaches.
