@@ -26,12 +26,12 @@ Skills: Python, scikit-learn, Random Forest, regression
 
 → View Project
 
-### 🌱 Plant Image Classification
+### 🌱 Plant Morphology Classification
 Compared deep-learning approaches for plant image classification.
 
 Skills: Deep Learning, ResNet50, Transfer Learning
 
-→ [View LLM & RAG Benchmarking →](https://github.com/hhwangq/03-Plant-Morphology-Classification)
+→ [View Plant Morphology Classification →](https://github.com/hhwangq/03-Plant-Morphology-Classification)
 
 ### 📊 Missing Data Imputation
 Compared statistical and ML-based imputation approaches.
