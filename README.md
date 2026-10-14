@@ -16,7 +16,7 @@ welfare datasets.
 Skills: Python, LLMs, RAG, DeepEval, statistical analysis,
 API cost analysis
 
-→ [View LLM & RAG Benchmarking →](https://github.com/hhwangq/01-LLM-RAG-Benchmarking)
+→ [View LLM & RAG Benchmarking](https://github.com/hhwangq/01-LLM-RAG-Benchmarking)
 
 ### GABAA Potency Prediction
 Developed machine-learning models for predicting receptor potency
@@ -31,12 +31,12 @@ Compared deep-learning approaches for plant image classification.
 
 Skills: Deep Learning, ResNet50, Transfer Learning
 
-→ [View Plant Morphology Classification →](https://github.com/hhwangq/03-Plant-Morphology-Classification)
+→ [View Plant Morphology Classification](https://github.com/hhwangq/03-Plant-Morphology-Classification)
 
 ### Missing Data Imputation
 Compared statistical and ML-based imputation approaches.
 
 Skills: R, missing-data analysis, PCA, clustering
 
-→ [View Missing Data Imputation →](https://github.com/hhwangq/04-Missing-Data-Imputation)
+→ [View Missing Data Imputation](https://github.com/hhwangq/04-Missing-Data-Imputation)
 
