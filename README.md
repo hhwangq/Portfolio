@@ -18,13 +18,13 @@ API cost analysis
 
 → [View LLM & RAG Benchmarking](https://github.com/hhwangq/01-LLM-RAG-Benchmarking)
 
-### GABAA Potency Prediction
+### GABA-A Potency Prediction
 Developed machine-learning models for predicting receptor potency
 from molecular data.
 
 Skills: Python, scikit-learn, Random Forest, regression
 
-→ View Project
+→ [View GABA-A Potency Prediction](https://github.com/hhwangq/02-GABAA-Potency-Prediction)
 
 ### Plant Morphology Classification
 Compared deep-learning approaches for plant image classification.
